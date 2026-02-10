@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - main
-      - fix/*
-      - feature/*
-      - development
   workflow_dispatch:
 permissions:
   contents: read
@@ -108,4 +105,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v3
