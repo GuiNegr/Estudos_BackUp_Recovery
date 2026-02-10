@@ -81,12 +81,14 @@ jobs:
           restore-keys:
             hugo-
       - name: Build the site
+        working-directory: quickstart
         run: |
           hugo \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
+        continue-on-error: false
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v5
@@ -96,7 +98,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./quickstart/public
   deploy:
     environment:
       name: github-pages

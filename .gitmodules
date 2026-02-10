@@ -1,3 +1,6 @@
 [submodule "quickstart/themes/ananke"]
 	path = quickstart/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "quickstart/themes/hugo-classic"]
+	path = quickstart/themes/hugo-classic
+	url = git@github.com:goodroot/hugo-classic.git
