@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cobol/</loc>
+    <loc>//localhost:1313/cobol/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cobol/cobol/</loc>
+    <loc>//localhost:1313/cobol/cobol/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jdbc/jdbc/</loc>
+    <loc>//localhost:1313/jdbc/jdbc/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/llm/llm/</loc>
+    <loc>//localhost:1313/llm/llm/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jdbc/</loc>
+    <loc>//localhost:1313/jdbc/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/llm/</loc>
+    <loc>//localhost:1313/llm/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/llm/parametros/</loc>
+    <loc>//localhost:1313/llm/parametros/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jpa/</loc>
+    <loc>//localhost:1313/jpa/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

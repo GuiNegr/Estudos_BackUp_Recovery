@@ -1,4 +1,4 @@
-baseURL = 'https://www.help-to-save-this.com/'
+baseURL = '/'
 languageCode = 'pt-br'
 title = 'help me to save this!'
 theme = 'hugo-classic'

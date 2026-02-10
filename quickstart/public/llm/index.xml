@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Llms on help me to save this!</title>
-    <link>http://localhost:1313/llm/</link>
+    <link>//localhost:1313/llm/</link>
     <description>Recent content in Llms on help me to save this!</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/llm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explorando o Uso de LLMS</title>
-      <link>http://localhost:1313/llm/llm/</link>
+      <link>//localhost:1313/llm/llm/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/llm/llm/</guid>
+      <guid>//localhost:1313/llm/llm/</guid>
       <description>&lt;p&gt;LLMS São uma vertente da utilização de Machine Learning que utiliza um algoritmo chamado Deep Learning para conseguir efetivar padrões de conhecimento. portanto quando falamos de LLMS estamos conversando sobre modelos de linguagems capazem de traduzir matematica em texto, já que utilizando seus milhoes,bilhoes,trilhoes de &lt;a href=&#34;./parametros.md&#34;&gt;paramentros&lt;/a&gt; são capazes de criar uma probabilidade sobre qual frase se conecta mais com a anterior para assim formar uma resposta ao usuario. por sua vez essa informação acaba se tornando falsas,incoerentes e reais. apesar da grande evolução ainda é necessario uma validação humana sobre aquilo que lhe foi dito ou escrito. como um texto ou mesmo um codigo gerado por ela.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Parametros</title>
-      <link>http://localhost:1313/llm/parametros/</link>
+      <link>//localhost:1313/llm/parametros/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/llm/parametros/</guid>
+      <guid>//localhost:1313/llm/parametros/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Parâmetros&lt;/strong&gt; são valores utilizados para alimentar o processo de aprendizado de modelos de IA (especialmente em &lt;strong&gt;Deep Learning&lt;/strong&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Existem três tipos principais: &lt;strong&gt;Pesos&lt;/strong&gt;, &lt;strong&gt;Vieses (Bias)&lt;/strong&gt; e &lt;strong&gt;Hiperparâmetros&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;pesos&#34;&gt;Pesos&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pesos&lt;/strong&gt; são valores numéricos atribuídos às entradas do modelo. Eles determinam o quanto cada entrada influencia a saída final da rede neural. Durante o treinamento, os pesos são ajustados automaticamente por algoritmos de otimização (como o gradiente descendente) para reduzir o erro das previsões.&lt;/p&gt;</description>
     </item>
   </channel>
