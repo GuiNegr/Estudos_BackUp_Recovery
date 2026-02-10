@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Help Me to Save This! on help me to save this!</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Help Me to Save This! on help me to save this!</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Codigo em cobol para interessados!</title>
-      <link>http://localhost:1313/cobol/cobol/</link>
+      <link>//localhost:1313/cobol/cobol/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cobol/cobol/</guid>
+      <guid>//localhost:1313/cobol/cobol/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-COBOL&#34; data-lang=&#34;COBOL&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      *É BEM IMPORTANTE RESPEITAR AS LINHAS NO COBOL JÁ QUE SERVE COMO&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      * CODAR EM CARTÃO PERFURADO&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      *Meu Hello Wolrd em Cobol&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      *Uma divisião para incluir informações documentais. como o nome do&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      *programa nome do autor&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      * a posição 7 indica como o compilador deve intepretar aquela &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      * linha por isso os asteristicos ficam aqui..&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      * já a 8 já indica o codigo em si&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;IDENTIFICATION&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;DIVISION&lt;/span&gt;.            &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;PROGRAM-ID&lt;/span&gt;. hello.&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;ENVIRONMENT&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;DIVISION&lt;/span&gt;.&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      * INDICA O COMPPUTADOR ONDE O PROGRAMA ESTÁ SENDO ESCRITO&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;DATA&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;DIVISION&lt;/span&gt;.&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      * ARQUIVOS DE ENTRADA E SAIDA,VARIAVEIS E CONSTANTES&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;PROCEDURE&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;DIVISION&lt;/span&gt;.&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt;     &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt;     &lt;span style=&#34;color:#66d9ef&#34;&gt;display &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;HELLO WOLRD!&amp;#34;&lt;/span&gt;.&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt;     &lt;span style=&#34;color:#66d9ef&#34;&gt;stop&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;run&lt;/span&gt;.&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;      &lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Entendo o JDBC  a fundo!</title>
-      <link>http://localhost:1313/jdbc/jdbc/</link>
+      <link>//localhost:1313/jdbc/jdbc/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jdbc/jdbc/</guid>
+      <guid>//localhost:1313/jdbc/jdbc/</guid>
       <description>&lt;h1 id=&#34;como-o-jdbc-funciona&#34;&gt;Como o JDBC FUNCIONA:&lt;/h1&gt;&#xA;&lt;p&gt;O JDBC é uma API que define um contrato entre aplicações Java e bancos de dados relacionais. Ele funciona acima de drivers específicos, que são responsáveis por implementar a comunicação real com o banco utilizando seu protocolo nativo.&lt;/p&gt;&#xA;&lt;p&gt;Ao solicitar uma conexão via &lt;code&gt;getConnection&lt;/code&gt;, o JDBC aciona o driver adequado, que abre um socket TCP com o servidor do banco de dados e inicia o handshake definido pelo protocolo do banco. Esse processo vai além de uma simples troca de mensagens, envolvendo autenticação, negociação de capacidades e validação da sessão.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Explorando o Uso de LLMS</title>
-      <link>http://localhost:1313/llm/llm/</link>
+      <link>//localhost:1313/llm/llm/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/llm/llm/</guid>
+      <guid>//localhost:1313/llm/llm/</guid>
       <description>&lt;p&gt;LLMS São uma vertente da utilização de Machine Learning que utiliza um algoritmo chamado Deep Learning para conseguir efetivar padrões de conhecimento. portanto quando falamos de LLMS estamos conversando sobre modelos de linguagems capazem de traduzir matematica em texto, já que utilizando seus milhoes,bilhoes,trilhoes de &lt;a href=&#34;./parametros.md&#34;&gt;paramentros&lt;/a&gt; são capazes de criar uma probabilidade sobre qual frase se conecta mais com a anterior para assim formar uma resposta ao usuario. por sua vez essa informação acaba se tornando falsas,incoerentes e reais. apesar da grande evolução ainda é necessario uma validação humana sobre aquilo que lhe foi dito ou escrito. como um texto ou mesmo um codigo gerado por ela.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Parametros</title>
-      <link>http://localhost:1313/llm/parametros/</link>
+      <link>//localhost:1313/llm/parametros/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/llm/parametros/</guid>
+      <guid>//localhost:1313/llm/parametros/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Parâmetros&lt;/strong&gt; são valores utilizados para alimentar o processo de aprendizado de modelos de IA (especialmente em &lt;strong&gt;Deep Learning&lt;/strong&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Existem três tipos principais: &lt;strong&gt;Pesos&lt;/strong&gt;, &lt;strong&gt;Vieses (Bias)&lt;/strong&gt; e &lt;strong&gt;Hiperparâmetros&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;pesos&#34;&gt;Pesos&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pesos&lt;/strong&gt; são valores numéricos atribuídos às entradas do modelo. Eles determinam o quanto cada entrada influencia a saída final da rede neural. Durante o treinamento, os pesos são ajustados automaticamente por algoritmos de otimização (como o gradiente descendente) para reduzir o erro das previsões.&lt;/p&gt;</description>
     </item>
   </channel>
