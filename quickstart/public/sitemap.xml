@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/cobol/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/cobol/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/cobol/cobol/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/cobol/cobol/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/jdbc/jdbc/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/jdbc/jdbc/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/llm/llm/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/llm/llm/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/jdbc/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/jdbc/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/llm/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/llm/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/llm/parametros/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/llm/parametros/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/jpa/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/jpa/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/Estudos_BackUp_Recovery/tags/</loc>
   </url>
 </urlset>
