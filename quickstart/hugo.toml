@@ -1,8 +1,0 @@
-baseURL = 'https://guinegr.github.io/Estudos_BackUp_Recovery/'
-languageCode = 'pt-br'
-title = 'help me to save this!'
-theme = 'hugo-classic'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
