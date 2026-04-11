@@ -1,7 +1,4 @@
-+++
-title = 'Entendo o JDBC  a fundo!'
-date = '2026-02-09'
-+++
+
 
 # Como o JDBC FUNCIONA:
 O JDBC é uma API que define um contrato entre aplicações Java e bancos de dados relacionais. Ele funciona acima de drivers específicos, que são responsáveis por implementar a comunicação real com o banco utilizando seu protocolo nativo.

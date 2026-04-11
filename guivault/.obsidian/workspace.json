@@ -8,33 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab85a43ec566feb8",
+            "id": "db84277fc21c9b63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "tecnologias/Proxy Reverso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "Proxy Reverso"
             }
-          }
-        ]
-      },
-      {
-        "id": "bc5ba294841d34c1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "52bc2daff46f84d7",
+            "id": "3e950df50a158b33",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "LOAD BALANCER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LOAD BALANCER"
             }
           }
         ]
@@ -94,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6f8908c85eeb544d",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "JAVA/PARAELISMO/COMPORTABLE FUTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Kubernetes"
+              "title": "Links inversos para COMPORTABLE FUTURE"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "JAVA/PARAELISMO/COMPORTABLE FUTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Kubernetes"
+              "title": "Links de saída para COMPORTABLE FUTURE"
             }
           },
           {
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "JAVA/PARAELISMO/COMPORTABLE FUTURE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Kubernetes"
+              "title": "Sumário de COMPORTABLE FUTURE"
             }
           }
         ]
@@ -199,18 +198,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ab85a43ec566feb8",
+  "active": "db84277fc21c9b63",
   "lastOpenFiles": [
-    "_index.md",
-    "llm/parametros.md",
-    "llm/llm.md",
-    "llm",
-    "jpa/_index.md",
-    "jpa",
-    "jdbc/jdbc.md",
-    "jdbc",
+    "LOAD BALANCER.md",
+    "tecnologias/Proxy Reverso.md",
+    "HELP.md",
+    "patterns/SAGA PATTERN/SAGA PATTERN.md",
+    "Sem título",
+    "patterns/PADRÕES DE PROJETO.md",
+    "patterns/SAGA PATTERN",
+    "tecnologias/Kubernetes.md",
+    "tecnologias",
+    "JAVA/PARAELISMO/COMPORTABLE FUTURE.md",
+    "patterns",
+    "JAVA/PARAELISMO/Paralelismo.md",
+    "JAVA/PARAELISMO",
+    "JAVA",
+    "ideias/IDEIAS.md",
+    "ideias",
     "cobol/cobol.md",
-    "cobol",
-    "Kubernetes.md"
+    "jdbc/jdbc.md",
+    "llm/llm.md",
+    "jpa/_index.md",
+    "llm/parametros.md",
+    "llm",
+    "jpa",
+    "jdbc"
   ]
 }

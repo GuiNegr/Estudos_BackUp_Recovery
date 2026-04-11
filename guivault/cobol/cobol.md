@@ -1,7 +1,4 @@
-+++
-title = 'Codigo em cobol para interessados!'
-date = '2026-02-09'
-+++
+
 
 ```COBOL
       *É BEM IMPORTANTE RESPEITAR AS LINHAS NO COBOL JÁ QUE SERVE COMO

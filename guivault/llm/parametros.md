@@ -1,7 +1,3 @@
-+++
-title = 'Parametros'
-date = '2026-02-09'
-+++
 
 
 **Parâmetros** são valores utilizados para alimentar o processo de aprendizado de modelos de IA (especialmente em **Deep Learning**).
