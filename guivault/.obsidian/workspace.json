@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tecnologias/Proxy Reverso.md",
+                "file": "ALURA/JAVA-REBCLIENT-SPRING/Netty x Tomcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy Reverso"
-            }
-          },
-          {
-            "id": "3e950df50a158b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LOAD BALANCER.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LOAD BALANCER"
+              "title": "Netty x Tomcat"
             }
           }
         ]
@@ -92,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6f8908c85eeb544d",
@@ -200,11 +185,15 @@
   },
   "active": "db84277fc21c9b63",
   "lastOpenFiles": [
-    "LOAD BALANCER.md",
-    "tecnologias/Proxy Reverso.md",
+    "tecnologias/servidores de aplicação.md",
+    "ALURA/JAVA-REBCLIENT-SPRING/Netty x Tomcat.md",
     "HELP.md",
+    "ALURA/JAVA-REBCLIENT-SPRING/Programação Reativa.md",
+    "tecnologias/LOAD BALANCER.md",
+    "tecnologias/Proxy Reverso.md",
+    "ALURA/JAVA-REBCLIENT-SPRING",
+    "ALURA",
     "patterns/SAGA PATTERN/SAGA PATTERN.md",
-    "Sem título",
     "patterns/PADRÕES DE PROJETO.md",
     "patterns/SAGA PATTERN",
     "tecnologias/Kubernetes.md",
@@ -222,7 +211,6 @@
     "jpa/_index.md",
     "llm/parametros.md",
     "llm",
-    "jpa",
-    "jdbc"
+    "jpa"
   ]
 }
