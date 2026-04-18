@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALURA/JAVA-REBCLIENT-SPRING/Netty x Tomcat.md",
+                "file": "JAVA/PARAELISMO/DIFERENÇAS ENTRE REPOSITORYS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netty x Tomcat"
+              "title": "DIFERENÇAS ENTRE REPOSITORYS"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "db84277fc21c9b63",
   "lastOpenFiles": [
-    "tecnologias/servidores de aplicação.md",
     "ALURA/JAVA-REBCLIENT-SPRING/Netty x Tomcat.md",
+    "JAVA/PARAELISMO/DIFERENÇAS ENTRE REPOSITORYS.md",
+    "tecnologias/servidores de aplicação.md",
     "HELP.md",
     "ALURA/JAVA-REBCLIENT-SPRING/Programação Reativa.md",
     "tecnologias/LOAD BALANCER.md",
