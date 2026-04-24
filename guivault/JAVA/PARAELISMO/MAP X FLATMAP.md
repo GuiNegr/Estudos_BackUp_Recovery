@@ -1,7 +1,6 @@
 faz parte do uso da api Streams de java mais tem usos diferentes.
 `map` transforma um valor direto;  
 `flatMap` é usado quando a transformação já devolve um container e você precisa evitar aninhamento.
-# Map
 
 ```
 
