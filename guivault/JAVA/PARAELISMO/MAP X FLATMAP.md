@@ -36,3 +36,22 @@ public Mono<EventoDto> update(EventoDto eventoDto,Long id) {
   
 }
 ```
+
+
+quando estamos trabalhando com [[Programação Reativa]] é importante o uso de map e flatMap para desencadear ações, como mono e flux são apenas promessas de valores futuros não é possivel tentar recuperar seus valores no futuro, então voce pode usar o flatmap para consumir esses valores, pois o flatMap é uma instancia de fluxo que retorna o mesmo ou o valor inicial transmutado, como uma entity para dto por exemplo.
+
+```
+public Mono<EventoDto> create(EventoDto eventoDto) {  
+    return repository.save(eventoDto.toEnttity())  
+            .flatMap(eventoSalvo -> {  
+  
+                Tickets ticket = new Tickets();  
+                ticket.setQtd_remain(100);  
+                ticket.setId_eventos(eventoSalvo.getId());  
+  
+                return ticketsRepository.save(ticket)  
+                        .thenReturn(eventoSalvo);  
+            })            .map(EventoDto::toDTO);  
+}
+
+```
