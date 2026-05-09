@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Sealed.md",
+                "file": "JAVA/Anotações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sealed"
+              "title": "Anotações"
             }
           }
         ]
@@ -185,8 +185,14 @@
   },
   "active": "7aeeeb356e63c3de",
   "lastOpenFiles": [
-    "JAVA/PARAELISMO/MAP X FLATMAP.md",
+    "JAVA/Testes/Test Container.md",
+    "JAVA/Anotações.md",
+    "JAVA/Testes/Testes Unitarios!.md",
     "JAVA/Sealed.md",
+    "JAVA/Testes",
+    "JAVA/Webclient/WebClient.md",
+    "JAVA/Webclient",
+    "JAVA/PARAELISMO/MAP X FLATMAP.md",
     "ALURA/JAVA-RESTCLIENT-SPRING/Programação Reativa.md",
     "ALURA/JAVA-RESTCLIENT-SPRING/SSE.md",
     "tecnologias/Websocket.md",
@@ -212,17 +218,11 @@
     "patterns/PADRÕES DE PROJETO.md",
     "JAVA/PARAELISMO/Anotações com Produces.md",
     "JAVA/PARAELISMO/COMPORTABLE FUTURE.md",
-    "JAVA/PARAELISMO/DIFERENÇAS ENTRE REPOSITORYS.md",
-    "tecnologias/LOAD BALANCER.md",
     "ALURA/JAVA-RESTCLIENT-SPRING",
     "ALURA",
     "patterns/SAGA PATTERN",
     "tecnologias",
     "patterns",
-    "JAVA/PARAELISMO",
-    "JAVA",
-    "ideias",
-    "cobol/cobol.md",
-    "jdbc/jdbc.md"
+    "JAVA/PARAELISMO"
   ]
 }

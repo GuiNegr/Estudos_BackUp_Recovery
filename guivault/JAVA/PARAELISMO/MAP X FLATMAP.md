@@ -55,3 +55,16 @@ public Mono<EventoDto> create(EventoDto eventoDto) {
 }
 
 ```
+
+# Regra prática importante
+
+Use:
+
+- `map` → quando transforma valor simples
+- `flatMap` → quando retorna outro `Mono`/`Flux`
+
+Exemplo mental:
+
+```
+map:Mono<A> -> Mono<B>flatMap:Mono<A> -> Mono<Mono<B>>             ↓         Mono<B>
+```

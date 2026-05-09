@@ -1,0 +1,1 @@
+O test container é uma lib de java que permite subirmos ambientes docker para testes, no caso da aplicação de exemplo irei subir um container contendo meu PostgreeSQL para os testes.
