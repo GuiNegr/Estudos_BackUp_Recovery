@@ -10,3 +10,7 @@ Lembre-se de dar a merda do commit e push
 
 ### Sobre o criador
 Segue meu [portifolio](https://guinegr.github.io/GuilhermeWorkstation/index.html) para tentar me conhecer melhor! =D
+
+## Comandos aleatorios do MEU linux
+`sudo update-alternatives --config java`
+trocar a versão do Java da minha maquina
