@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e58d9361e8006fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Quarkus/Quarkus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quarkus"
-            }
-          },
-          {
             "id": "f627f99f9a8b6c42",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "RabbitMQ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/PARAELISMO/COMPORTABLE FUTURE.md",
+                "file": "tecnologias/RabbitMQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para COMPORTABLE FUTURE"
+              "title": "Links inversos para RabbitMQ"
             }
           },
           {
@@ -171,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/PARAELISMO/COMPORTABLE FUTURE.md",
+                "file": "tecnologias/RabbitMQ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de COMPORTABLE FUTURE"
+              "title": "Sumário de RabbitMQ"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,48 +181,52 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "f627f99f9a8b6c42",
   "lastOpenFiles": [
-    "tecnologias/Websocket.md",
-    "HELP.md",
-    "BACKPRESSUE.md",
-    "Vertex.md",
-    "Sem título.base",
+    "Projetos/Voltar com o moneyBOt.md",
+    "Projetos/projetos.md",
     "tecnologias/RabbitMQ.md",
-    "tecnologias/servidores de aplicação.md",
-    "tecnologias/Kubernetes.md",
-    "Comandos Dockers!.md",
+    "BACKPRESSUE.md",
+    "copilot/copilot-conversations/hey_voce_esta_no_opsivsia@20260521_224024.md",
+    "copilot/copilot-conversations/hey@20260521_223640.md",
+    "copilot/copilot-conversations",
+    "Excalidraw/Drawing 2026-05-21 22.36.18.excalidraw.md",
+    "Sem título 1.base",
+    "Sem título.base",
+    "Vertex.md",
     "Long Polling.md",
-    "JAVA/Quarkus/Quarkus.md",
-    "JAVA/Sealed.md",
-    "JAVA/Anotações.md",
-    "ALURA/JAVA-RESTCLIENT-SPRING/Netty x Tomcat.md",
-    "JAVA/Testes/Test Container.md",
+    "Projetos",
+    "Excalidraw/Drawing 2026-05-21 22.35.45.excalidraw.md",
+    "Excalidraw",
+    "Sem título 2.base",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "tecnologias/Websocket.md",
     "JAVA/Quarkus",
-    "JAVA/Testes/Testes Unitarios!.md",
     "JAVA/Testes",
-    "JAVA/Webclient/WebClient.md",
-    "JAVA/Webclient",
-    "JAVA/PARAELISMO/MAP X FLATMAP.md",
-    "ALURA/JAVA-RESTCLIENT-SPRING/Programação Reativa.md",
-    "ALURA/JAVA-RESTCLIENT-SPRING/SSE.md",
-    "ALURA/JAVA-RESTCLIENT-SPRING/Sink.md",
-    "tecnologias/Estratégias de comunicação cliente-servidor.md",
-    "llm/llm.md",
-    "patterns/SAGA PATTERN/SAGA PATTERN.md",
-    "tecnologias/Proxy Reverso.md",
-    "tecnologias/Poling.md",
     "images/sse.png",
     "images/Pasted image 20260423204812.png",
-    "images/longPolling.png",
-    "images",
-    "ALURA/JAVA-RESTCLIENT-SPRING",
-    "ALURA",
-    "patterns/SAGA PATTERN",
-    "tecnologias",
-    "patterns"
+    "images/longPolling.png"
   ]
 }
