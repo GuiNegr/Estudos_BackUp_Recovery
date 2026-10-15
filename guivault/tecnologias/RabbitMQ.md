@@ -152,3 +152,17 @@ quando a fila excede seu comrpimento,Mensagem Expiradas TTL(TIME TO LEAVE), mens
 
 # DLX
 são exchanges para dlq
+
+
+
+# Mirrored Queues
+são filas espelhadas. Essas filas funcionam da seguinte forma: elas possuem uma fila primária em um dos nós do cluster, e o espelhamento ocorre em um ou mais membros desse cluster. As mensagens publicadas na fila primeiro acessam o nó primário (onde a fila foi originalmente criada) e, em seguida, são replicadas para os espelhos. Se algo acontecer com o nó primário, o espelho sincronizado mais antigo será promovido a primário. **Existe uma projeção de desativar esse recurso a partir da versão 4.0 do RabbitMQ** para que sejam priorizadas as _quorum queues_. Isso porque o algoritmo que faz esse espelhamento é considerado ineficiente e pode sofrer alguns problemas de sincronização e performance.
+
+# quorum queues
+usando o algoritmo de consenso _Raft_, para promover uma melhor performance em relação às filas espelhadas e garantir a segurança das mensagens. Nessa abordagem, determina-se que deve haver um quorum mínimo de réplicas disponíveis
+[fonte](https://www.rabbitmq.com/docs/quorum-queues)
+
+# Eventuais problemas pontuias.
+
+## Shovel
+A ideia do _shovel_, de modo geral, é consumir mensagens de uma fila e republicar em outra. Isso pode ocorrer por vários motivos, não apenas em mensagens com falha. Ele pode ser usado quando há aplicações que usam protocolos de comunicação diferentes e há a necessidade de ter uma fila para cada tipo, versões diferentes de RabbitMQ sendo utilizadas, ou qualquer outro caso em que há a necessidade de transferência de mensagens de uma fila para outra.
